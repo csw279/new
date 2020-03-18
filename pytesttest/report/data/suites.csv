@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Feb 16 21:28:54 CST 2020","Sun Feb 16 21:28:55 CST 2020","518","","test_requests","","","","test_01_login",""
+"passed","Sun Feb 16 21:28:55 CST 2020","Sun Feb 16 21:28:59 CST 2020","4200","","test_selenium","","","","test_01_index",""

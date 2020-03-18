@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "WIN-4UUDP7C921V",
+    "children" : [ {
+      "name" : "10172-MainThread",
+      "children" : [ {
+        "name" : "test_01_login",
+        "uid" : "ce4e80c9b74fd07c",
+        "parentUid" : "61c8842c3e5843e91bcc405d89f226a6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581859734757,
+          "stop" : 1581859735275,
+          "duration" : 518
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01_index",
+        "uid" : "6051b3baaa95edc8",
+        "parentUid" : "61c8842c3e5843e91bcc405d89f226a6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581859735289,
+          "stop" : 1581859739489,
+          "duration" : 4200
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "61c8842c3e5843e91bcc405d89f226a6"
+    } ],
+    "uid" : "effeb1c09e2181ceed851268833f3d7b"
+  } ]
+}
