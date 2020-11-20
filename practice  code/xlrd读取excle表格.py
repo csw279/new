@@ -16,6 +16,7 @@ print(row0)
 col0=table.col_values(0)    
 print(col0)
 
+##更新
 x=table.nrows  #一共多少行
 y=table.ncols  #一共多少列
 print(x,y)
